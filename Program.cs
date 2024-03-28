@@ -1,0 +1,3 @@
+﻿using StopWatch;
+
+Menu.ShowMenu();
